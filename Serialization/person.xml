@@ -1,0 +1,8 @@
+<Person>
+    <name>Alex</name>
+    <birthPlace>Budapest</birthPlace>
+    <birthYear>2000</birthYear>
+    <name>George</name>
+    <birthPlace>New York</birthPlace>
+    <birthYear>1986</birthYear>
+</Person>
