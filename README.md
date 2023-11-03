@@ -12,7 +12,7 @@ To work with the Java code in this repository, you'll need:
 
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/) (or any other compatible Java IDE)
 - [Apache Tomcat](http://tomcat.apache.org/) (or a similar servlet container, if applicable)
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) (Version X.X.X or higher)
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ## Usage
 
